@@ -26,8 +26,8 @@ function  Change(money,c,d){
 
 }
 
-let money = 100
-let c = [50,20,10]
+let money = 77
+let c = [25,10,5,1]
 let d = c.length;
 let result = Change(money,c,d)
 console.log(result)
